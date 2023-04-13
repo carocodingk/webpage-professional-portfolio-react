@@ -40,7 +40,7 @@ class Navbar extends React.Component {
 		return (
 			<div>
 				<div id="navbar" className="darkBackground">
-					<img id="logo" src={this.props.logo} />
+					<a href="#lowerApp"><img id="logo" src={this.props.logo} /></a>
 					<Navbarmenu />
 					<button id="menu" className="darkBackground" onClick={()=>{this.setState({showToggleMenu: !this.state.showToggleMenu})}}><span className="material-symbols-rounded" id="symbolHamburger">menu</span></button>	
 				</div>

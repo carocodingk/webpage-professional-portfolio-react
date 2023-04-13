@@ -26,6 +26,7 @@ function App() {
         <div id='Projects'>
           <Sectioncard sectioncardName="Projects" component={<Projects projects={projectContent} />} />
         </div>
+        <hr></hr>
         <div id='Sayhello'>
           <Sectioncard sectioncardName="Leave a Message" component={<Contact />} />
         </div>

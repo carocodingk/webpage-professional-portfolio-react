@@ -1,12 +1,22 @@
 #contactDiv {
-  border: 1px solid blanchedalmond;
   padding: 1em;
   width: 70%;
   margin-left: auto;
   margin-right: auto;
+  background-color: #2b292c;
 }
 
 #contactDiv form {
   display: flex;
   flex-direction: column;
+  font-family: "Oswald";
+  color: white;
+}
+
+label {
+  padding: 1em 0 0.2em;
+}
+
+#message {
+  min-height: 10rem;
 }
