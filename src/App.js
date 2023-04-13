@@ -22,6 +22,7 @@ function App() {
         <div id='Aboutme'>
           <Sectioncard sectioncardName="About Me" component={<Aboutme aboutme={aboutme} />} />
         </div>
+        <hr></hr>
         <div id='Projects'>
           <Sectioncard sectioncardName="Projects" component={<Projects projects={projectContent} />} />
         </div>

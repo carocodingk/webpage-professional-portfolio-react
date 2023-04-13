@@ -24,7 +24,7 @@ function Projects({projects: works}){
       <div className={"projectFrame " + imageSide} >
         <div className={"projectInfo shadow "+ infoSide}>
           <Sectiontittle title={project.title} />
-          <Sectiontext text={project.text} />
+          <Sectiontext id="test" text={project.text} />
           <div id="sectionButtons"> 
             <a href={project.github} target="_blank"><i class="fa fa-github projectButton
           "></i></a>

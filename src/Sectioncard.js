@@ -4,7 +4,7 @@ import "./Sectioncard.css";
 function Sectioncard({sectioncardName, component}){
   return (
     <div id="sectionCard">
-      <p id="sectioncardName">{sectioncardName}</p>
+      <h2 id="sectioncardName">{sectioncardName}</h2>
       <div id="sectioncardComponent">{component}</div>
     </div>
   );

@@ -1,3 +1,5 @@
-/* #sectionText {
-  border: 1px solid orangered;
-} */
+#sectionText {
+    color: white;
+    font-family: "Noto-Sans";
+    font-size: 1em;
+  }
