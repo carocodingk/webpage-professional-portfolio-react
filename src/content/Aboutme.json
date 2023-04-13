@@ -1,0 +1,10 @@
+{
+  "title": "Hello there!",
+  "text": [
+    "This is Caro Coding. I am a heterotroph organism based in NYC that graduated from Queens College with a Master of Arts in Computer Science and a Bachelor of Science in Electronics Engineering.",
+    "I am a passionate robotics enthusiast and have worked in several mobile robot devices from designing and building their electronic circuits to programming their microcontrollers and developing GUIs for their operation.",
+    "One of my main interest is building functional, intuitive and beautiful UI and traversing the city on my bicycle.",
+    "I develop in HTML, CSS, JavaScript, React Native, Python and C++."
+  ],
+  "image": "./images/aboutmeImg.png"
+}

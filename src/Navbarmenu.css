@@ -1,0 +1,27 @@
+#navbarMenu {
+  display: none;
+  z-index: 3;
+}
+
+#navbarMenu button {
+  background-color: #2f2d30;
+  border: none;
+  padding: 1em 1.2em;
+  font-size: 1.1em;
+  color: white;
+  font-weight: bold;
+  font-family: "Noto-Sans";
+}
+
+#navbarMenu button:hover{
+  color: #813942;
+}
+
+@media screen and (min-width: 600px) {
+
+  #navbarMenu{
+    display: flex;
+    justify-content: space-between;
+    width: 28em;
+  }
+}

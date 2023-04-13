@@ -1,0 +1,48 @@
+#sectionCard {
+  border: 1px solid white;
+  margin-left: auto;
+  margin-right: auto; 
+  width: 100%;
+  color: #BDBBBC;
+}
+
+#sectioncardName {
+  text-align: center;
+  font-size: 2rem;
+  color: #9D1F2E;
+  font-family: "Oswald";
+}
+
+#sectioncardComponent {
+  font-family: "Noto+Sans";
+}
+
+@media screen and (min-width: 2000px){
+  #sectionCard {
+    width: 1600px;
+  }
+}
+
+@media screen and (min-width: 1600px) and (max-width: 1999px){
+  #sectionCard {
+    width: 1200px;
+  }
+}
+
+@media screen and (min-width: 1200px) and (max-width: 1599px){
+  #sectionCard {
+    width: 1000px;
+  }
+}
+
+@media screen and (min-width: 920px) and (max-width:1199px){
+  #sectionCard {
+    width: 90%;
+  }
+}
+
+@media screen and (min-width: 919px) {
+  #sectioncardName {
+    text-align: right;
+  }
+}

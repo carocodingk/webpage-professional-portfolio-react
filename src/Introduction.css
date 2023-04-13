@@ -1,0 +1,74 @@
+#introDiv {
+  position: relative;
+}
+
+#introImage {
+  width: 100vw;
+}
+
+#introText {
+  color: white;
+  position: absolute;
+  top: 9%;
+  left: 10%;
+  font-family: "Oswald";
+  text-shadow: 5px 0px #2f2d30;
+}
+
+#introName {
+  font-size: 5rem;
+  margin-bottom: 1rem;
+}
+
+#introProfession {
+  font-size: 2.5rem;
+  margin-top: 0;
+}
+
+@media screen and (min-width: 400px) and (max-width:700px) {
+  #introText {
+    top: 5%;
+  }
+
+  #introName {
+    font-size: 6rem;
+  }
+
+  #introProfession {
+    font-size: 4rem;
+  }
+}
+
+@media screen and (min-width: 701px) and (max-width: 1500px) {
+  #introText {
+    top: 15%;
+  }
+
+  #introName {
+    font-size: 7rem;
+  }
+
+  #introProfession {
+    font-size: 5rem;
+  }
+}
+
+@media screen and (max-width: 1000px) {
+  #introImage {
+    height: 100vh;
+    object-fit: cover;
+    object-position: 70% 0%;
+  }
+}
+
+@media screen and (min-width: 1501px) {
+  #introName {
+    font-size: 10rem;
+  }
+
+  #introProfession {
+    font-size: 6rem;
+    text-align: right;
+  }
+}
+

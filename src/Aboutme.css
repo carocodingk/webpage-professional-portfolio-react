@@ -1,0 +1,39 @@
+#aboutmeFrame {
+  display: flex;
+  width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+#aboutmeInfo {
+  font-size: 1.3rem;
+  border: 1px solid green;
+}
+
+#aboutmeFrame img {
+  width: 100%;
+  height: auto;
+  max-width: 400px;
+  max-height: 400px;
+  border: 1px solid green;
+}
+
+@media screen and (min-width: 2000px){
+  #aboutmeFrame img {
+    width: 40%;
+  }
+}
+
+@media screen and (min-width:400px) and (max-width: 1999px){
+  #aboutmeFrame img {
+    width: auto;
+  }
+}
+
+@media screen and (min-width: 920px){
+  #aboutmeFrame {
+    flex-wrap: nowrap;
+  }
+}

@@ -1,0 +1,45 @@
+[
+  {
+    "id": "1",
+    "title": "Chucho Feliz Petshop Website",
+    "text": [
+      "A website for a pet store that features a blog section to share knowledge in the pet loving community, a product catalog section with its shopping cart and sign in/sign up."
+    ],
+    "image": "./images/petshop_screenshot.png",
+    "github": "https://github.com/carocodingk/petshopwebsite",
+    "url": "https://carocodingk.github.io/petshopwebsite/"
+  },
+  {
+    "id": "2",
+    "title": "Academic Resume Website",
+    "text": [
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam aliquam semper ex eget molestie. Sed hendrerit nisi tincidunt nunc auctor mattis. Proin risus ante, commodo vel ex in, scelerisque sodales nisi. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Cras mauris lectus, pretium finibus mauris vitae, feugiat dignissim ex. Etiam sit amet augue justo. Phasellus quis finibus lectus. Aenean neque purus, viverra id urna sed, facilisis laoreet erat.",
+      "Curabitur tincidunt est ut magna mollis cursus. Sed a fermentum est, in aliquet nisl. Cras condimentum nulla id lectus congue egestas. Nam posuere, nulla a facilisis sagittis, magna nisl mollis tellus, vitae ultrices urna nulla nec diam. Interdum et malesuada fames ac ante ipsum primis in faucibus. Sed sit amet porta dui. Etiam gravida arcu eget dapibus placerat. Suspendisse cursus tincidunt ligula luctus dictum. Vestibulum aliquam posuere purus, quis accumsan turpis interdum at."
+    ],
+    "image": "./images/img2.png",
+    "github": "https://github.com/carocodingk/resumeWeb",
+    "url": "https://carocodingk.github.io/resumeWeb/"
+  },
+  {
+    "id": "3",
+    "title": "Project 3",
+    "text": [
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam aliquam semper ex eget molestie. Sed hendrerit nisi tincidunt nunc auctor mattis. Proin risus ante, commodo vel ex in, scelerisque sodales nisi. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Cras mauris lectus, pretium finibus mauris vitae, feugiat dignissim ex. Etiam sit amet augue justo. Phasellus quis finibus lectus. Aenean neque purus, viverra id urna sed, facilisis laoreet erat.",
+      "Curabitur tincidunt est ut magna mollis cursus. Sed a fermentum est, in aliquet nisl. Cras condimentum nulla id lectus congue egestas. Nam posuere, nulla a facilisis sagittis, magna nisl mollis tellus, vitae ultrices urna nulla nec diam. Interdum et malesuada fames ac ante ipsum primis in faucibus. Sed sit amet porta dui. Etiam gravida arcu eget dapibus placerat. Suspendisse cursus tincidunt ligula luctus dictum. Vestibulum aliquam posuere purus, quis accumsan turpis interdum at."
+    ],
+    "image": "./images/img2.png",
+    "github": "https://github.com/carocodingk/petshopwebsite",
+    "url": "none"
+  },
+  {
+    "id": "4",
+    "title": "Project 4",
+    "text": [
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam aliquam semper ex eget molestie. Sed hendrerit nisi tincidunt nunc auctor mattis. Proin risus ante, commodo vel ex in, scelerisque sodales nisi. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Cras mauris lectus, pretium finibus mauris vitae, feugiat dignissim ex. Etiam sit amet augue justo. Phasellus quis finibus lectus. Aenean neque purus, viverra id urna sed, facilisis laoreet erat.",
+      "Curabitur tincidunt est ut magna mollis cursus. Sed a fermentum est, in aliquet nisl. Cras condimentum nulla id lectus congue egestas. Nam posuere, nulla a facilisis sagittis, magna nisl mollis tellus, vitae ultrices urna nulla nec diam. Interdum et malesuada fames ac ante ipsum primis in faucibus. Sed sit amet porta dui. Etiam gravida arcu eget dapibus placerat. Suspendisse cursus tincidunt ligula luctus dictum. Vestibulum aliquam posuere purus, quis accumsan turpis interdum at."
+    ],
+    "image": "./images/img2.png",
+    "github": "https://github.com/carocodingk/petshopwebsite",
+    "url": "none"
+  }
+]

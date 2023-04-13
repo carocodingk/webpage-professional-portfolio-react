@@ -1,0 +1,12 @@
+#contactDiv {
+  border: 1px solid blanchedalmond;
+  padding: 1em;
+  width: 70%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#contactDiv form {
+  display: flex;
+  flex-direction: column;
+}
