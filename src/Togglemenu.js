@@ -1,8 +1,6 @@
 import React from "react";
 import "./Togglemenu.css";
 
-let windowWidth = 1920;
-
 function Togglemenu({closeToggleMenu}){
   return(
     <div id="toggleMenu" className="column-container">

@@ -3,6 +3,7 @@ import "./css/Navbar.css";
 import Navbarmenu from "./Navbarmenu.js";
 import Togglemenu from "./Togglemenu.js";
 import Modal from "./Modal.js";
+import Toggle from "./Toggle.js";
 
 class Navbar extends React.Component {
 	constructor(props){
@@ -18,7 +19,7 @@ class Navbar extends React.Component {
 	}
 
   render(){
-		let toggleMenu = [], toggleMenuModal = [];
+		let toggleMenu = [];
 
 		window.addEventListener("resize", ()=>{
 			if (window.innerWidth > 600 && this.state.showToggleMenu){
@@ -27,25 +28,22 @@ class Navbar extends React.Component {
 		})
 
 		if (this.state.showToggleMenu){
-			toggleMenu = <Togglemenu showToggleMenu={this.state.showToggleMenu} closeToggleMenu={this.closeToggleMenu}  />;
-			toggleMenuModal = <Modal showToggleMenu={this.state.showToggleMenu} closeToggleMenu={this.closeToggleMenu}  />;
+			toggleMenu = <Toggle closeToggleMenu={this.closeToggleMenu} />;
 			document.body.classList.add("stop-scrolling");
 		}
 		else{
 			toggleMenu = [];
-			toggleMenuModal = []
 			document.body.classList.remove("stop-scrolling");
 		}
 
 		return (
-			<div>
+			<div id="fixedItem">
 				<div id="navbar" className="darkBackground">
-					<a href="#lowerApp"><img id="logo" src={this.props.logo} /></a>
+					<a href="#lowerApp"><img id="logo" src={this.props.logo} onClick={()=>{this.closeToggleMenu()}}/></a>
 					<Navbarmenu />
 					<button id="menu" className="darkBackground" onClick={()=>{this.setState({showToggleMenu: !this.state.showToggleMenu})}}><span className="material-symbols-rounded" id="symbolHamburger">menu</span></button>	
 				</div>
-				<div>
-					{toggleMenuModal}
+				<div id="toggle">
 					{toggleMenu}
 				</div>
 			</div>
