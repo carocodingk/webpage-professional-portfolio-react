@@ -20,3 +20,9 @@ label {
 #message {
   min-height: 10rem;
 }
+
+#sendButton {
+  max-width: 15%;
+  margin-top: 1rem;
+  margin-left: 85%;
+}

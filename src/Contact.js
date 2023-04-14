@@ -15,6 +15,7 @@ function Contact(){
         <label for="message">Message</label>
         <textarea id="message"  placeholder="Your message" ></textarea>
 
+        <button id="sendButton" type="submit" value="Submit">Send</button>
       </form>
     </div>
   );
