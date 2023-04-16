@@ -32,13 +32,19 @@
   margin: 0 1rem;
 }
 
-/* #test {
-  color: #CBD0D5;
-  border: 1px solid darkorange;
-} */
-
 .projectButton:hover {
   color: #813942;
+}
+
+/* #seemore {
+  text-decoration: none;
+  color: white;
+  border: 1px solid red;
+  font-size: 0.8em;
+} */
+
+#seemoreDiv {
+  display: flex;
 }
 
 @media screen and (max-width: 723px) {

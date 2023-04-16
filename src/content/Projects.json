@@ -7,7 +7,8 @@
     ],
     "image": "./images/petshop_screenshot.png",
     "github": "https://github.com/carocodingk/petshopwebsite",
-    "url": "https://carocodingk.github.io/petshopwebsite/"
+    "url": "https://carocodingk.github.io/petshopwebsite/",
+    "alt": "catalog of pet store website"
   },
   {
     "id": "2",
@@ -16,9 +17,10 @@
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam aliquam semper ex eget molestie. Sed hendrerit nisi tincidunt nunc auctor mattis. Proin risus ante, commodo vel ex in, scelerisque sodales nisi. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Cras mauris lectus, pretium finibus mauris vitae, feugiat dignissim ex. Etiam sit amet augue justo. Phasellus quis finibus lectus. Aenean neque purus, viverra id urna sed, facilisis laoreet erat.",
       "Curabitur tincidunt est ut magna mollis cursus. Sed a fermentum est, in aliquet nisl. Cras condimentum nulla id lectus congue egestas. Nam posuere, nulla a facilisis sagittis, magna nisl mollis tellus, vitae ultrices urna nulla nec diam. Interdum et malesuada fames ac ante ipsum primis in faucibus. Sed sit amet porta dui. Etiam gravida arcu eget dapibus placerat. Suspendisse cursus tincidunt ligula luctus dictum. Vestibulum aliquam posuere purus, quis accumsan turpis interdum at."
     ],
-    "image": "./images/img2.png",
+    "image": "./images/resume_screenshot.png",
     "github": "https://github.com/carocodingk/resumeWeb",
-    "url": "https://carocodingk.github.io/resumeWeb/"
+    "url": "https://carocodingk.github.io/resumeWeb/",
+    "alt": "resume website"
   },
   {
     "id": "3",
@@ -29,7 +31,8 @@
     ],
     "image": "./images/img2.png",
     "github": "https://github.com/carocodingk/petshopwebsite",
-    "url": "none"
+    "url": "none",
+    "alt": "none"
   },
   {
     "id": "4",
@@ -40,6 +43,7 @@
     ],
     "image": "./images/img2.png",
     "github": "https://github.com/carocodingk/petshopwebsite",
-    "url": "none"
+    "url": "none",
+    "alt": "none"
   }
 ]

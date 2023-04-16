@@ -1,8 +1,6 @@
 import React from "react";
 import "./css/Navbar.css";
 import Navbarmenu from "./Navbarmenu.js";
-import Togglemenu from "./Togglemenu.js";
-import Modal from "./Modal.js";
 import Toggle from "./Toggle.js";
 
 class Navbar extends React.Component {
@@ -39,7 +37,7 @@ class Navbar extends React.Component {
 		return (
 			<div id="fixedItem">
 				<div id="navbar" className="darkBackground">
-					<a href="#lowerApp"><img id="logo" src={this.props.logo} onClick={()=>{this.closeToggleMenu()}}/></a>
+					<a href="#lowerApp"><img id="logo" src={this.props.logo} onClick={()=>{this.closeToggleMenu()}} alt="company logo"/></a>
 					<Navbarmenu />
 					<button id="menu" className="darkBackground" onClick={()=>{this.setState({showToggleMenu: !this.state.showToggleMenu})}}><span className="material-symbols-rounded" id="symbolHamburger">menu</span></button>	
 				</div>

@@ -5,18 +5,9 @@ import "./Contact.css";
 function Contact(){
   return(
     <div id="contactDiv">
-      <form>
-        <label for="name">Name</label>
-        <input type="text" id="name"  placeholder="Your name" />
-
-        <label for="email">Email</label>
-        <input type="email" id="email"  placeholder="Your email" />
-
-        <label for="message">Message</label>
-        <textarea id="message"  placeholder="Your message" ></textarea>
-
-        <button id="sendButton" type="submit" value="Submit">Send</button>
-      </form>
+      <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScNrmhV8YnHHAJxZEc8oW651EVANF5UEsSmrlf7nRlNwYPhKA/viewform?embedded=true" width="640" height="720" frameborder="0" marginheight="0" marginwidth="0">
+        Loading…
+      </iframe>        
     </div>
   );
 }
