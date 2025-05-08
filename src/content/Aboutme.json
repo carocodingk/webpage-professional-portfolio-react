@@ -1,10 +1,14 @@
 {
   "title": "Hello there!",
+  "name": "Caro CodingK",
+  "profession": "Software Engineer",
   "text": [
-    "This is Caro Coding. I am a heterotroph organism based in NYC that graduated from Queens College with a Master of Arts in Computer Science and a Bachelor of Science in Electronics Engineering.",
-    "I am a passionate robotics enthusiast and have worked in several mobile robot devices from designing and building their electronic circuits to programming their microcontrollers and developing GUIs for their operation.",
-    "One of my main interest is building functional, intuitive and beautiful UI and traversing the city on my bicycle.",
-    "I develop in HTML, CSS, JavaScript, React Native, Python and C++."
+    "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque blandit ultrices eros et condimentum. Nullam sit amet erat vehicula erat pretium sodales ut non arcu.",
+    " Donec iaculis nisl eu sapien consectetur tempus. Nam porttitor elit libero, non vehicula libero euismod eu. Suspendisse eleifend ipsum ut bibendum eleifend. Ut luctus blandit volutpat.",
+    "Cras eu neque in augue iaculis cursus. Nullam imperdiet felis a scelerisque condimentum. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "Donec condimentum elit non lobortis lacinia. Integer id enim eget odio ullamcorper ornare ut ut enim. Curabitur dictum lacus id lacus feugiat, id semper nisi dictum.",
+    "Mauris vehicula diam id est porta, eu malesuada turpis viverra. Maecenas et velit tincidunt, eleifend eros vitae, lobortis ligula. Fusce tempor turpis vitae ex fermentum luctus."
   ],
-  "image": "./images/aboutmeImg.png"
+  "image": "./images/aboutmeImg.png",
+  "contact_form": "https://docs.google.com/forms/d/e/1FAIpQLScNrmhV8YnHHAJxZEc8oW651EVANF5UEsSmrlf7nRlNwYPhKA/viewform?embedded=true"
 }
