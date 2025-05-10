@@ -4,7 +4,7 @@ import "./Footer.css";
 function Footer(){
   return(
     <div id="footer">  
-      Designed and built by Caro Coding
+      Designed and built by CaroCodingK
     </div>
   );
 }
