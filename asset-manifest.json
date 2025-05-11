@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/webpage-professional-portfolio-react/static/css/main.edcc8ca0.css",
+    "main.js": "/webpage-professional-portfolio-react/static/js/main.316b01dc.js",
+    "static/js/453.d6bd085f.chunk.js": "/webpage-professional-portfolio-react/static/js/453.d6bd085f.chunk.js",
+    "static/media/img2.png": "/webpage-professional-portfolio-react/static/media/img2.44d878082f2b8bc07f80.png",
+    "static/media/introImg.png": "/webpage-professional-portfolio-react/static/media/introImg.44d878082f2b8bc07f80.png",
+    "static/media/aboutmeImg.png": "/webpage-professional-portfolio-react/static/media/aboutmeImg.8abc74bd6c475a3e0cef.png",
+    "static/media/petshop_screenshot.png": "/webpage-professional-portfolio-react/static/media/petshop_screenshot.877d9ca97820ef709ff4.png",
+    "static/media/resume_screenshot.png": "/webpage-professional-portfolio-react/static/media/resume_screenshot.6369f56edc84cbb08a8c.png",
+    "static/media/logo.png": "/webpage-professional-portfolio-react/static/media/logo.a510af2704febe4a044b.png",
+    "static/media/index.cjs": "/webpage-professional-portfolio-react/static/media/index.6cc1b11a234f6e065e45.cjs",
+    "index.html": "/webpage-professional-portfolio-react/index.html",
+    "main.edcc8ca0.css.map": "/webpage-professional-portfolio-react/static/css/main.edcc8ca0.css.map",
+    "main.316b01dc.js.map": "/webpage-professional-portfolio-react/static/js/main.316b01dc.js.map",
+    "453.d6bd085f.chunk.js.map": "/webpage-professional-portfolio-react/static/js/453.d6bd085f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.edcc8ca0.css",
+    "static/js/main.316b01dc.js"
+  ]
+}
