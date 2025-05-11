@@ -6,8 +6,8 @@
       "A website for a pet store that features a blog section to share knowledge in the pet loving community, a product catalog section with its shopping cart and sign in/sign up."
     ],
     "image": "./images/petshop_screenshot.png",
-    "github": "https://github.com/carocodingk/petshopwebsite",
-    "url": "https://carocodingk.github.io/petshopwebsite/",
+    "github": "https://github.com/carocodingk/web-application-retail-pet-store-react/",
+    "url": "https://carocodingk.github.io/web-application-retail-pet-store-react/",
     "alt": "catalog of pet store website"
   },
   {
@@ -18,8 +18,8 @@
       "Curabitur tincidunt est ut magna mollis cursus. Sed a fermentum est, in aliquet nisl. Cras condimentum nulla id lectus congue egestas. Nam posuere, nulla a facilisis sagittis, magna nisl mollis tellus, vitae ultrices urna nulla nec diam. Interdum et malesuada fames ac ante ipsum primis in faucibus. Sed sit amet porta dui. Etiam gravida arcu eget dapibus placerat. Suspendisse cursus tincidunt ligula luctus dictum. Vestibulum aliquam posuere purus, quis accumsan turpis interdum at."
     ],
     "image": "./images/resume_screenshot.png",
-    "github": "https://github.com/carocodingk/resumeWeb",
-    "url": "https://carocodingk.github.io/resumeWeb/",
+    "github": "https://github.com/carocodingk/webpage-professional-resume",
+    "url": "https://carocodingk.github.io/webpage-professional-resume/",
     "alt": "resume website"
   },
   {
@@ -30,7 +30,7 @@
       "Curabitur tincidunt est ut magna mollis cursus. Sed a fermentum est, in aliquet nisl. Cras condimentum nulla id lectus congue egestas. Nam posuere, nulla a facilisis sagittis, magna nisl mollis tellus, vitae ultrices urna nulla nec diam. Interdum et malesuada fames ac ante ipsum primis in faucibus. Sed sit amet porta dui. Etiam gravida arcu eget dapibus placerat. Suspendisse cursus tincidunt ligula luctus dictum. Vestibulum aliquam posuere purus, quis accumsan turpis interdum at."
     ],
     "image": "./images/img2.png",
-    "github": "https://github.com/carocodingk/petshopwebsite",
+    "github": "https://github.com/carocodingk",
     "url": "none",
     "alt": "none"
   },
@@ -42,7 +42,7 @@
       "Curabitur tincidunt est ut magna mollis cursus. Sed a fermentum est, in aliquet nisl. Cras condimentum nulla id lectus congue egestas. Nam posuere, nulla a facilisis sagittis, magna nisl mollis tellus, vitae ultrices urna nulla nec diam. Interdum et malesuada fames ac ante ipsum primis in faucibus. Sed sit amet porta dui. Etiam gravida arcu eget dapibus placerat. Suspendisse cursus tincidunt ligula luctus dictum. Vestibulum aliquam posuere purus, quis accumsan turpis interdum at."
     ],
     "image": "./images/img2.png",
-    "github": "https://github.com/carocodingk/petshopwebsite",
+    "github": "https://github.com/carocodingk",
     "url": "none",
     "alt": "none"
   }
